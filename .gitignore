@@ -1,0 +1,14 @@
+node_modules/
+AGENTS.md
+.next/
+.vercel/
+dist/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.local-owner-password
+tsconfig.tsbuildinfo
+.DS_Store
+.agent/
